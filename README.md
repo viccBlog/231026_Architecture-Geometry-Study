@@ -1,5 +1,6 @@
 ジオメトリエンジニアの複雑形状建築探訪#3 「高雄衛武営国家芸術センター」
 231205_visiting_geometric_architecture_3
+https://blog.vicc.jp/entry/visiting-geometric-architecture-3
 -------------------------------------------------------
 ブログ記事で使ったサンプルデータです。
 
