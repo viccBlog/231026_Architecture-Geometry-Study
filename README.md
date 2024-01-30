@@ -2,7 +2,6 @@
 
 
 vicc blog の記事で使ったサンプルデータです。  
-
 [https://blog.vicc.jp/entry/visiting-geometric-architecture-3](https://blog.vicc.jp/entry/visiting-geometric-architecture-3)  
 
 
